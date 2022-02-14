@@ -1,0 +1,144 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+   
+}
+a{
+    color:rgb(71, 7, 131) ;
+}
+.container{
+    position: relative;
+    padding: 5%;
+}
+div{
+    padding: 5%;
+}
+   
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    /* font-family: 'Itim', cursive; */
+    font-size: 562.5%;
+    color: rgb(71, 7, 131);
+    line-height: 2;
+    /* font-weight: normal; */
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: rgb(71, 9, 129);
+    font-weight: 590;
+    margin: 5 auto;
+}
+.container{
+    background-color: rgb(213, 187, 235);
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 10px;
+    color:rgb(44, 11, 97)
+
+}
+img{
+    padding: auto;
+    margin-top: 1%;
+}
+#profile-picture{
+    width: 20rem;
+    height:20rem;
+}
+.cloud1{
+    position:absolute;
+    left: 75%;
+}
+.cloud2{
+    position: absolute;
+    left:15%;
+    bottom: 72%;
+}
+.skill-row{
+    text-align: left;
+}
+.skill-row p{
+    line-height: 2;
+  
+}
+.computerimg{
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 10%;
+}
+span{
+    font-size: 80px;
+}
+.resume{
+    font-size: 1rem;
+    margin: 1%;
+}
+p{
+    margin-right: 1%;
+    margin-left: 1%;
+    /* width: 65%; */
+    margin: auto;
+    line-height: 2;
+}
+.middle-container{
+    background-color:white;
+    margin-bottom: 0;
+}
+.bottom-container{
+    background-color: rgb(213, 187, 235);
+    margin-top: 0;
+    height: 1rem;
+}
+.heartimg{
+    float: right;
+    margin-left: 5%;
+    height: 40%;
+    width: 40%;
+}
+.btn {
+	box-shadow: 0px 0px 0px 0px #501bc2;
+	background-color:#a761e0;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#fafafa;
+	font-family:Verdana;
+	font-size:20px;
+	padding:16px 28px;
+	text-decoration:none;
+    margin:3% auto;
+}
+
+.btn:hover {
+	background-color:#7f3dbd;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+footer{
+    color: #cdbadd;
+    font-size: 1rem;
+    margin: 1%;
+}
+.footer-link{
+    margin: 3%;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #a26ecc;
+}
+.footer-link>a{
+    margin: 3rem;
+   
+}
+
